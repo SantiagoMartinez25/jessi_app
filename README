@@ -1,0 +1,4 @@
+## INSTALACIÓN
+1. Click derecho sobre la carpeta que contiene todo el código y luego "Abrir con PowerShell"
+2. `npm run dev` y ejecutar
+3. Esto inicia un servidor local que se puede abrir con un navegador para usar la app.
